@@ -1,0 +1,13 @@
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\bin\Debug\netcoreapp3.1\GameConsoleCopy.exe
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\bin\Debug\netcoreapp3.1\GameConsoleCopy.deps.json
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\bin\Debug\netcoreapp3.1\GameConsoleCopy.runtimeconfig.json
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\bin\Debug\netcoreapp3.1\GameConsoleCopy.runtimeconfig.dev.json
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\bin\Debug\netcoreapp3.1\GameConsoleCopy.dll
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\bin\Debug\netcoreapp3.1\GameConsoleCopy.pdb
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\obj\Debug\netcoreapp3.1\GameConsoleCopy.csprojAssemblyReference.cache
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\obj\Debug\netcoreapp3.1\GameConsoleCopy.AssemblyInfoInputs.cache
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\obj\Debug\netcoreapp3.1\GameConsoleCopy.AssemblyInfo.cs
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\obj\Debug\netcoreapp3.1\GameConsoleCopy.csproj.CoreCompileInputs.cache
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\obj\Debug\netcoreapp3.1\GameConsoleCopy.dll
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\obj\Debug\netcoreapp3.1\GameConsoleCopy.pdb
+C:\Users\hamwa\source\repos\GameConsoleCopy\GameConsoleCopy\obj\Debug\netcoreapp3.1\GameConsoleCopy.genruntimeconfig.cache
